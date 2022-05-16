@@ -1,0 +1,47 @@
+
+
+
+Web Design
+1) HTML, 
+2) CSS, 
+3) JAVAsCRIPT
+4) bOOTStrap
+
+Web Development
+
+...
+Front end Languages
+
+Backend Languages
+
+Static Websites (No Database)
+Dynamic Websites (Database ->data)
+
+
+
+Website, Web base application/ Software
+
+
+HTML = Hyper text markup Language
+
+Browser
+Texteditor (Notepad, Sublime Text editor, VS Code Notepad++)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
